@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding:0;
+    background-color:black;
+}
+
+#First{
+    text-align: center;
+    padding:10%;
+    justify-content: center;
+    font-size: large;
+    font-weight: bold;
+    width: 80vw;
+    
+    
+}
+#myLabel{
+    border:3px solid black;
+    border-radius: 8px;
+    padding: 5%;
+    background-color: grey;
+    font-size:40px;
+   scroll-behavior:smooth;
+    margin:10%;
+
+}
+
